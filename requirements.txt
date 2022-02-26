@@ -1,0 +1,12 @@
+torch>=1.4.0
+torchvision
+matplotlib
+numpy
+scipy
+pillow
+urllib3
+scikit-image
+
+Only for training, need to install pytorch-msssim
+pip install pytorch-msssim
+
